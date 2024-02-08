@@ -46,4 +46,4 @@ Abaixo tecnologias que foram usadas no projeto
 
 ## ✅ Licença
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/brunogoncalvesferreira/nlw-expert-notes?tab=MIT-1-ov-file#readme)
